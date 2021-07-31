@@ -1,7 +1,7 @@
 #ifndef ELISP_H
 #define ELISP_H
 
-#include "emacs-module.h"
+#include <emacs-module.h>
 #include "vterm.h"
 
 // Emacs symbols
